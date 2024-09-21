@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/wizardbusiness/cartographer/issues"
   },
-  "homepage": "https://github.com/wizardbusiness/cartographer#readme"
+  "homepage": "https://github.com/wizardbusiness/cartographer#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.12"
+  }
 }
