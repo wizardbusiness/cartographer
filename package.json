@@ -1,0 +1,26 @@
+{
+  "name": "cartographer",
+  "version": "1.0.0",
+  "description": "Tailwind plugin which enables the use of dynamic values in compiled Tailwind class strings\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardbusiness/cartographer.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "dynamic",
+    "class",
+    "variables"
+  ],
+  "author": "Gabriel Kime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wizardbusiness/cartographer/issues"
+  },
+  "homepage": "https://github.com/wizardbusiness/cartographer#readme"
+}
